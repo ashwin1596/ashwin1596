@@ -44,7 +44,7 @@ A cutting-edge digital portfolio showcasing professional skills through immersiv
 ### [TCP Tahoe: Advanced Network Communication](https://github.com/ashwin1596/tcp)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A robust network communication protocol implementation that enhances data transmission reliability and network efficiency.
+A robust network communication protocol that enhances data transmission reliability and network efficiency.
 
 ---
 
