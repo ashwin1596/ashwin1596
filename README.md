@@ -19,7 +19,7 @@ A distributed storage platform that revolutionizes data accessibility and sharin
 
 ---
 
-### [Purchase Planner: Collaborative Shopping Intelligence](https://github.com/ashwin1596/purchase_planner)
+### [Purchase Planner: Personalized Shopping Intelligence](https://github.com/ashwin1596/purchase_planner)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
