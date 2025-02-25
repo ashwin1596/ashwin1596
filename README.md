@@ -15,7 +15,7 @@
 ![gRPC](https://img.shields.io/badge/-gRPC-FF6F00?logo=grpc&logoColor=white)
 ![Distributed Hash Table](https://img.shields.io/badge/-DHT-232F3E?logo=dht&logoColor=white)
 
-A distributed storage platform that revolutionizes data accessibility and sharing through intelligent peer-to-peer networking. (In-Progress)
+A peer-to-peer distributed storage platform enhancing data accessibility, scalability, and fault tolerance while eliminating single points of failure. (In-Progress)
 
 ---
 
