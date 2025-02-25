@@ -27,7 +27,7 @@ A distributed storage platform that revolutionizes data accessibility and sharin
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
-Purchase Planner is a full-stack web application designed to help users manage and organize their purchases effectively. The application provides an intuitive interface for creating, maintaining, and prioritizing a personal purchase list.
+A smart purchase planner built with the MERN stack, helping users track, categorize, and prioritize purchases to reduce unnecessary spending.
 
 ---
 
@@ -37,7 +37,7 @@ Purchase Planner is a full-stack web application designed to help users manage a
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
-A cutting-edge digital portfolio showcasing professional skills through immersive web technologies, built with React, Three.js, Tailwind CSS, and Vite.
+An interactive digital portfolio leveraging immersive web technologies to showcase skills dynamically, going beyond traditional static resumes.
 
 ---
 
