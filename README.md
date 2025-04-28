@@ -10,6 +10,15 @@
   
 ## Projects
 
+### [Ownership Verification in Deep Neural Networks viaWatermarking](https://github.com/ashwin1596/Capstone)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+
+Scalable DNN verification systems ensuring model robustness and smooth production deployment through cross-functional collaboration across ML and engineering teams.
+
+---
+
 ### [P2P Storage: Decentralized Data Management](https://github.com/ashwin1596/p2p)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-FF6F00?logo=grpc&logoColor=white)
