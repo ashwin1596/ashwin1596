@@ -10,7 +10,7 @@
   
 ## Projects
 
-### [Ownership Verification in Deep Neural Networks viaWatermarking](https://github.com/ashwin1596/Capstone)
+### [Ownership Verification in Deep Neural Networks via Watermarking](https://github.com/ashwin1596/Capstone)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
