@@ -3,8 +3,8 @@
 
 ## About Me
 - 🌱 I love making software applications that help solve real world problems
-- 🔭 I'm currently a graduate student at Rochester Institute of Technology (CGPA - 3.97)
-- 💬 Majoring in Computer Science
+- 🔭 Master of Science in Computer Science graduate from Rochester Institute of Technology (GPA - 3.97)
+- 💬 Majored in Artificial Intelligence
 - 📫 How to reach me: ak6913@rit.edu
 <!-- - ⚡ Fun fact: [something interesting about yourself] -->
   
