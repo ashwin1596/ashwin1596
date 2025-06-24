@@ -19,6 +19,19 @@ Scalable DNN verification systems ensuring model robustness and smooth productio
 
 ---
 
+### [TaxiTrip Data Mining: Scalable Pattern Discovery on 44M Trips](https://github.com/ashwin1596/Capstone)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![Apriori](https://img.shields.io/badge/-Apriori-FF6F61?logo=python&logoColor=white)
+
+This project analyzes over a million NYC taxi trips by designing and comparing relational and document-based models. It applies indexing strategies and data mining techniques to extract insights and evaluate database performance.
+
+---
+
 ### [P2P Storage: Decentralized Data Management](https://github.com/ashwin1596/p2p)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-FF6F00?logo=grpc&logoColor=white)
