@@ -28,7 +28,7 @@ Scalable DNN verification systems ensuring model robustness and smooth productio
 
 ---
 
-### [TaxiTrip Data Mining: Scalable Pattern Discovery on 44M Trips](https://github.com/ashwin1596/Capstone)
+### [TaxiTrip Data Mining: Scalable Pattern Discovery on 44M Trips](https://github.com/ashwin1596/bigData)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
