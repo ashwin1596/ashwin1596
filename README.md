@@ -91,3 +91,17 @@ A smart purchase planner built with the MERN stack, helping users track, categor
 
 An interactive digital portfolio leveraging immersive web technologies to showcase skills dynamically, going beyond traditional static resumes.
 
+---
+
+### [Logic Resolution Engine](https://github.com/ashwin1596/LogicResolutionEngine)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](#)
+
+A Java-based automated theorem proving system for Propositional and First-Order Logic using unification algorithms and dual resolution strategies.
+
+---
+
+### [A* Pathfinding with Terrain Analysis](https://github.com/ashwin1596/PathFinder)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](#)
+
+A Java-based optimal pathfinding system using the A* algorithm for real-time navigation across complex terrains with movement constraints.
+
