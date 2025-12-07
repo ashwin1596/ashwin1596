@@ -10,7 +10,7 @@
   
 ## Projects
 
-### [GoQueue - Distributed Task Queue]([https://github.com/ashwin1596/goqueue](https://github.com/ashwin1596/DistributedTaskQueue))
+### [GoQueue - Distributed Task Queue](https://github.com/ashwin1596/DistributedTaskQueue)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -24,7 +24,7 @@ A distributed task queue in Go that processes thousands of asynchronous jobs per
 
 ---
 
-### [VideoFingerprint - Real-Time Content Identification System]([https://github.com/ashwin1596/videofingerprint](https://github.com/ashwin1596/VidFingerprint))
+### [VideoFingerprint - Real-Time Content Identification System](https://github.com/ashwin1596/VidFingerprint)
 ![C++](https://img.shields.io/badge/-C++17-00599C?logo=c%2B%2B&logoColor=white)
 ![Performance](https://img.shields.io/badge/-High_Performance-FF6B6B?style=flat-square)
 ![Distributed](https://img.shields.io/badge/-Distributed_Systems-4A90E2?style=flat-square)
