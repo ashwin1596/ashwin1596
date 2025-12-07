@@ -24,7 +24,7 @@ A distributed task queue in Go that processes thousands of asynchronous jobs per
 
 ---
 
-### [VideoFingerprint - Real-Time Content Identification System](https://github.com/ashwin1596/VidFingerprint)
+### [MediaFingerprint - Real-Time Content Identification System](https://github.com/ashwin1596/VidFingerprint)
 ![C++](https://img.shields.io/badge/-C++17-00599C?logo=c%2B%2B&logoColor=white)
 ![Performance](https://img.shields.io/badge/-High_Performance-FF6B6B?style=flat-square)
 ![Distributed](https://img.shields.io/badge/-Distributed_Systems-4A90E2?style=flat-square)
@@ -32,7 +32,7 @@ A distributed task queue in Go that processes thousands of asynchronous jobs per
 A high-performance, distributed content identification system designed for processing millions of concurrent requests and petabytes of data daily. Built with modern C++17, demonstrating enterprise-grade backend engineering for large-scale systems.
 
 **Key Capabilities:**
-- Generates perceptual fingerprints from audio/video content
+- Generates perceptual fingerprints from audio content
 - Optimized database storage with advanced indexing for millions of fingerprints
 - Real-time matching with <100ms latency at scale
 - High-concurrency workloads using thread pools
