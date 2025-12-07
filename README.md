@@ -10,6 +10,37 @@
   
 ## Projects
 
+### [GoQueue - Distributed Task Queue](https://github.com/ashwin1596/goqueue)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+
+A distributed task queue in Go that processes thousands of asynchronous jobs per second. Features priority scheduling, automatic retries, horizontal scaling, and production-grade monitoring with comprehensive testing and containerization.
+
+**Features:**
+- **Core Functionality:** Priority queue system (Low, Medium, High, Critical), distributed workers with horizontal scaling, Redis-backed task persistence, automatic retries with exponential backoff, and graceful shutdown
+- **Production Ready:** RESTful API for task management, Prometheus metrics integration, built-in health checks, structured JSON logging with Zap, comprehensive unit tests, and full Docker Compose support
+
+---
+
+### [VideoFingerprint - Real-Time Content Identification System](https://github.com/ashwin1596/videofingerprint)
+![C++](https://img.shields.io/badge/-C++17-00599C?logo=c%2B%2B&logoColor=white)
+![Performance](https://img.shields.io/badge/-High_Performance-FF6B6B?style=flat-square)
+![Distributed](https://img.shields.io/badge/-Distributed_Systems-4A90E2?style=flat-square)
+
+A high-performance, distributed content identification system designed for processing millions of concurrent requests and petabytes of data daily. Built with modern C++17, demonstrating enterprise-grade backend engineering for large-scale systems.
+
+**Key Capabilities:**
+- Generates perceptual fingerprints from audio/video content
+- Optimized database storage with advanced indexing for millions of fingerprints
+- Real-time matching with <100ms latency at scale
+- High-concurrency workloads using thread pools
+- Comprehensive monitoring and metrics
+- LRU caching for hot data optimization
+
+---
+
 ### [DeepL - Efficient Deep Learning Framework](https://github.com/ashwin1596/deepL)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
