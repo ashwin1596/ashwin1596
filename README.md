@@ -10,6 +10,14 @@
   
 ## Projects
 
+### [Limit Order Book & Lock-Free Trading Pipeline](https://github.com/ashwin1596/OrderManager)
+![C++](https://img.shields.io/badge/-C++17-00599C?logo=c%2B%2B&logoColor=white)
+![Performance](https://img.shields.io/badge/-High_Performance-FF6B6B?style=flat-square)
+
+A high-performance deep learning framework specifically designed to solve complex graph optimization challenges in machine learning, enabling researchers and developers to build more efficient and precise neural network models.
+
+---
+
 ### [GoQueue - Distributed Task Queue](https://github.com/ashwin1596/DistributedTaskQueue)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
